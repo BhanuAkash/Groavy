@@ -202,7 +202,7 @@ section .title::after {
 /* home section styling */
 .home {
     display: flex;
-    background: linear-gradient(90deg, rgb(0 0 0 / 53%), rgb(0 0 0 / 53%)), url(Images/banner-elegant.jpg);
+    background: linear-gradient(90deg, rgb(0 0 0 / 53%), rgb(0 0 0 / 53%)), url(images/banner-elegant.jpg);
     height: 100vh;
     min-height: 500px;
     background-size: cover;
