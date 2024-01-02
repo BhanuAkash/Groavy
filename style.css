@@ -1094,7 +1094,7 @@ label {
     gap: 10px;
 }
 .highlights-section{
-    background: linear-gradient(90deg, rgb(0 0 0 / 40%), rgb(0 0 0 / 40%)), url(Images/highlights-section.jpg);
+    background: linear-gradient(90deg, rgb(0 0 0 / 40%), rgb(0 0 0 / 40%)), url(images/highlights-section.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
